@@ -1,0 +1,9 @@
+import m from "mithril";
+
+const TreeView = {
+	view: function(vnode) {
+		return m("div", "hello world")
+    }
+}
+
+export default TreeView
